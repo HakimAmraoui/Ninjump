@@ -1,2 +1,2 @@
 # Ninjump
-My game project for my studies in Turku, game development
+My game project for my studies in Turku, in Game Development
