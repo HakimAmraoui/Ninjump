@@ -1,0 +1,2806 @@
+fileFormatVersion: 2
+guid: 2e155dee2f64977479d11c2d3bcd3d6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6680636140462922044
+    second: Wall Tiles_0
+  - first:
+      213: 1856363205360370320
+    second: Wall Tiles_1
+  - first:
+      213: 4144143828646259090
+    second: Wall Tiles_2
+  - first:
+      213: 1608263321936250229
+    second: Wall Tiles_3
+  - first:
+      213: -43381853985751229
+    second: Wall Tiles_4
+  - first:
+      213: 7459614402109653967
+    second: Wall Tiles_5
+  - first:
+      213: 5092753874412918377
+    second: Wall Tiles_6
+  - first:
+      213: -1326594987452150183
+    second: Wall Tiles_7
+  - first:
+      213: 1375874090764389772
+    second: Wall Tiles_8
+  - first:
+      213: -8637457782644482635
+    second: Wall Tiles_9
+  - first:
+      213: 353622805200296018
+    second: Wall Tiles_10
+  - first:
+      213: 5422430849126772214
+    second: Wall Tiles_11
+  - first:
+      213: 7294905941924134608
+    second: Wall Tiles_12
+  - first:
+      213: 4368502698255420956
+    second: Wall Tiles_13
+  - first:
+      213: 8352315894667597819
+    second: Wall Tiles_14
+  - first:
+      213: 5897887854785856720
+    second: Wall Tiles_15
+  - first:
+      213: -1540407739119589017
+    second: Wall Tiles_16
+  - first:
+      213: 499104610761067595
+    second: Wall Tiles_17
+  - first:
+      213: 7116210689232739799
+    second: Wall Tiles_18
+  - first:
+      213: -3236805727353218662
+    second: Wall Tiles_19
+  - first:
+      213: -1954890672069742735
+    second: Wall Tiles_20
+  - first:
+      213: 8846280323829382460
+    second: Wall Tiles_21
+  - first:
+      213: 5142459830008465613
+    second: Wall Tiles_22
+  - first:
+      213: -6735542549217601754
+    second: Wall Tiles_23
+  - first:
+      213: 8831565239602533255
+    second: Wall Tiles_24
+  - first:
+      213: -8468431550482772580
+    second: Wall Tiles_25
+  - first:
+      213: 7718350074983805162
+    second: Wall Tiles_26
+  - first:
+      213: 1723796842094562884
+    second: Wall Tiles_27
+  - first:
+      213: 3862856955727280041
+    second: Wall Tiles_28
+  - first:
+      213: -6088564107967295028
+    second: Wall Tiles_29
+  - first:
+      213: -2494694095301831501
+    second: Wall Tiles_30
+  - first:
+      213: 3602974650628866174
+    second: Wall Tiles_31
+  - first:
+      213: -6893730907021062257
+    second: Wall Tiles_32
+  - first:
+      213: -5686701052694334811
+    second: Wall Tiles_33
+  - first:
+      213: 8394196170299175240
+    second: Wall Tiles_34
+  - first:
+      213: 1833606178625471928
+    second: Wall Tiles_35
+  - first:
+      213: 7637508523190178699
+    second: Wall Tiles_36
+  - first:
+      213: -6404481608283420694
+    second: Wall Tiles_37
+  - first:
+      213: 2877768884469615926
+    second: Wall Tiles_38
+  - first:
+      213: -6799673261840267524
+    second: Wall Tiles_39
+  - first:
+      213: -4077004133681873966
+    second: Wall Tiles_40
+  - first:
+      213: -3324284523026499260
+    second: Wall Tiles_41
+  - first:
+      213: 5934320634247861276
+    second: Wall Tiles_42
+  - first:
+      213: 5072562042065735216
+    second: Wall Tiles_43
+  - first:
+      213: 5347444790588102777
+    second: Wall Tiles_44
+  - first:
+      213: 2317675599962712915
+    second: Wall Tiles_45
+  - first:
+      213: -4552691169254255294
+    second: Wall Tiles_46
+  - first:
+      213: 6107239916117317063
+    second: Wall Tiles_47
+  - first:
+      213: 6434608382107201058
+    second: Wall Tiles_48
+  - first:
+      213: 925223697007105698
+    second: Wall Tiles_49
+  - first:
+      213: -7790494143425196238
+    second: Wall Tiles_50
+  - first:
+      213: 2811793732549515403
+    second: Wall Tiles_51
+  - first:
+      213: -7401508660325738242
+    second: Wall Tiles_52
+  - first:
+      213: 7918263355750246065
+    second: Wall Tiles_53
+  - first:
+      213: -6619481347949608792
+    second: Wall Tiles_54
+  - first:
+      213: 725680525623717517
+    second: Wall Tiles_55
+  - first:
+      213: -687845151156823530
+    second: Wall Tiles_56
+  - first:
+      213: 878917759546204330
+    second: Wall Tiles_57
+  - first:
+      213: -7992461125509440808
+    second: Wall Tiles_58
+  - first:
+      213: -7350640208736797519
+    second: Wall Tiles_59
+  - first:
+      213: 8798736224381732868
+    second: Wall Tiles_60
+  - first:
+      213: -997797675253739407
+    second: Wall Tiles_61
+  - first:
+      213: -4482815543099147888
+    second: Wall Tiles_62
+  - first:
+      213: 707875672630988298
+    second: Wall Tiles_63
+  - first:
+      213: 4554332325020276220
+    second: Wall Tiles_64
+  - first:
+      213: 7678410283678493264
+    second: Wall Tiles_65
+  - first:
+      213: 6724217000568479850
+    second: Wall Tiles_66
+  - first:
+      213: -1879336000763246833
+    second: Wall Tiles_67
+  - first:
+      213: -3732487672440243058
+    second: Wall Tiles_68
+  - first:
+      213: 8585207498771906557
+    second: Wall Tiles_69
+  - first:
+      213: -9084700166337148580
+    second: Wall Tiles_70
+  - first:
+      213: 418201484684896565
+    second: Wall Tiles_71
+  - first:
+      213: 6185050420115542977
+    second: Wall Tiles_72
+  - first:
+      213: -8705335503214299956
+    second: Wall Tiles_73
+  - first:
+      213: -6688176145618742425
+    second: Wall Tiles_74
+  - first:
+      213: -2905913807312677609
+    second: Wall Tiles_75
+  - first:
+      213: -7748885485070163709
+    second: Wall Tiles_76
+  - first:
+      213: 5071488314015743134
+    second: Wall Tiles_77
+  - first:
+      213: -3074423189510479115
+    second: Wall Tiles_78
+  - first:
+      213: 4267927818334626892
+    second: Wall Tiles_79
+  - first:
+      213: -8581145174562772276
+    second: Wall Tiles_80
+  - first:
+      213: -7030649007861938484
+    second: Wall Tiles_81
+  - first:
+      213: 2181841742365999134
+    second: Wall Tiles_82
+  - first:
+      213: 2290095818797678428
+    second: Wall Tiles_83
+  - first:
+      213: 1733073341048766788
+    second: Wall Tiles_84
+  - first:
+      213: 4102779656334183086
+    second: Wall Tiles_85
+  - first:
+      213: -1150950107777244751
+    second: Wall Tiles_86
+  - first:
+      213: -1459215575284414942
+    second: Wall Tiles_87
+  - first:
+      213: 1930331683139316896
+    second: Wall Tiles_88
+  - first:
+      213: 1449732257292014916
+    second: Wall Tiles_89
+  - first:
+      213: -1844806967732614519
+    second: Wall Tiles_90
+  - first:
+      213: -1055471034457051706
+    second: Wall Tiles_91
+  - first:
+      213: -1330289587231065617
+    second: Wall Tiles_92
+  - first:
+      213: 3885154775274365309
+    second: Wall Tiles_93
+  - first:
+      213: 198555119651161557
+    second: Wall Tiles_94
+  - first:
+      213: 6646796309328612523
+    second: Wall Tiles_95
+  - first:
+      213: 676460915103990530
+    second: Wall Tiles_96
+  - first:
+      213: -8854480362531661453
+    second: Wall Tiles_97
+  - first:
+      213: -1170868561336687036
+    second: Wall Tiles_98
+  - first:
+      213: -1426035002689294257
+    second: Wall Tiles_99
+  - first:
+      213: -3845290630085374381
+    second: Wall Tiles_100
+  - first:
+      213: 2790551909530947206
+    second: Wall Tiles_101
+  - first:
+      213: 1497125107716399389
+    second: Wall Tiles_102
+  - first:
+      213: -4370257498236828803
+    second: Wall Tiles_103
+  - first:
+      213: -5587054957298987251
+    second: Wall Tiles_104
+  - first:
+      213: -7070708791346766484
+    second: Wall Tiles_105
+  - first:
+      213: 6481681767120767900
+    second: Wall Tiles_106
+  - first:
+      213: -6249157121151181841
+    second: Wall Tiles_107
+  - first:
+      213: 2092139159597165749
+    second: Wall Tiles_108
+  - first:
+      213: -1580272144692055596
+    second: Wall Tiles_109
+  - first:
+      213: 3346572076702338634
+    second: Wall Tiles_110
+  - first:
+      213: -1863339219535969740
+    second: Wall Tiles_111
+  - first:
+      213: -8097687710623049462
+    second: Wall Tiles_112
+  - first:
+      213: -945728627833621822
+    second: Wall Tiles_113
+  - first:
+      213: -984231342953707678
+    second: Wall Tiles_114
+  - first:
+      213: 3416689953274008304
+    second: Wall Tiles_115
+  - first:
+      213: -7497422227164256739
+    second: Wall Tiles_116
+  - first:
+      213: -1238085417324693719
+    second: Wall Tiles_117
+  - first:
+      213: 2103413321157277490
+    second: Wall Tiles_118
+  - first:
+      213: -8186035113160029594
+    second: Wall Tiles_119
+  - first:
+      213: -4190868318117739724
+    second: Wall Tiles_120
+  - first:
+      213: 8245202969854969672
+    second: Wall Tiles_121
+  - first:
+      213: -9152110138945089617
+    second: Wall Tiles_122
+  - first:
+      213: 8261480307359371289
+    second: Wall Tiles_123
+  - first:
+      213: 2308671893406544486
+    second: Wall Tiles_124
+  - first:
+      213: 4024052385740128368
+    second: Wall Tiles_125
+  - first:
+      213: -8468235826084349608
+    second: Wall Tiles_126
+  - first:
+      213: 3890420751552872870
+    second: Wall Tiles_127
+  - first:
+      213: 1391043519843405378
+    second: Wall Tiles_128
+  - first:
+      213: -2958375121637360300
+    second: Wall Tiles_129
+  - first:
+      213: 1098714584145896750
+    second: Wall Tiles_130
+  - first:
+      213: 3202781692220309117
+    second: Wall Tiles_131
+  - first:
+      213: 3062022628836155666
+    second: Wall Tiles_132
+  - first:
+      213: 6350838031202261232
+    second: Wall Tiles_133
+  - first:
+      213: -5894291844043222957
+    second: Wall Tiles_134
+  - first:
+      213: -3703576965501285695
+    second: Wall Tiles_135
+  - first:
+      213: -9048530210718777110
+    second: Wall Tiles_136
+  - first:
+      213: 1001013406341669242
+    second: Wall Tiles_137
+  - first:
+      213: -5350663822733263370
+    second: Wall Tiles_138
+  - first:
+      213: 962337752414474578
+    second: Wall Tiles_139
+  - first:
+      213: -8911461686636568806
+    second: Wall Tiles_140
+  - first:
+      213: 555039628448639901
+    second: Wall Tiles_141
+  - first:
+      213: -8982494829670994155
+    second: Wall Tiles_142
+  - first:
+      213: 8878802911075668135
+    second: Wall Tiles_143
+  - first:
+      213: 6333699069430884076
+    second: Wall Tiles_144
+  - first:
+      213: -7641769466087933801
+    second: Wall Tiles_145
+  - first:
+      213: 675098329308748947
+    second: Wall Tiles_146
+  - first:
+      213: -4390838851624525408
+    second: Wall Tiles_147
+  - first:
+      213: 7364756779285938845
+    second: Wall Tiles_148
+  - first:
+      213: 2751593412439705186
+    second: Wall Tiles_149
+  - first:
+      213: -6167753229695642888
+    second: Wall Tiles_150
+  - first:
+      213: 1359122629975306938
+    second: Wall Tiles_151
+  - first:
+      213: 5328294678313983405
+    second: Wall Tiles_152
+  - first:
+      213: 5169090042984472389
+    second: Wall Tiles_153
+  - first:
+      213: 1237587108416414806
+    second: Wall Tiles_154
+  - first:
+      213: -4497068664698831543
+    second: Wall Tiles_155
+  - first:
+      213: 7586675506205867892
+    second: Wall Tiles_156
+  - first:
+      213: -7482127958523563306
+    second: Wall Tiles_157
+  - first:
+      213: -4993008290517831507
+    second: Wall Tiles_158
+  - first:
+      213: 3586136923493939744
+    second: Wall Tiles_159
+  - first:
+      213: 77739962977843623
+    second: Wall Tiles_160
+  - first:
+      213: 7434619810840042485
+    second: Wall Tiles_161
+  - first:
+      213: 998537875185180033
+    second: Wall Tiles_162
+  - first:
+      213: 7819929242480064769
+    second: Wall Tiles_163
+  - first:
+      213: 4299946661353211062
+    second: Wall Tiles_164
+  - first:
+      213: -3057238290852844192
+    second: Wall Tiles_165
+  - first:
+      213: -6082354732176756004
+    second: Wall Tiles_166
+  - first:
+      213: 2942640773724410298
+    second: Wall Tiles_167
+  - first:
+      213: 4034867016209076514
+    second: Wall Tiles_168
+  - first:
+      213: 5002740674529942306
+    second: Wall Tiles_169
+  - first:
+      213: -7893123576634521796
+    second: Wall Tiles_170
+  - first:
+      213: -8280938019043661188
+    second: Wall Tiles_171
+  - first:
+      213: 103233917374877387
+    second: Wall Tiles_172
+  - first:
+      213: -3163225011167832479
+    second: Wall Tiles_173
+  - first:
+      213: 1208794439311915614
+    second: Wall Tiles_174
+  - first:
+      213: -7837761749257644222
+    second: Wall Tiles_175
+  - first:
+      213: -8996746153444677135
+    second: Wall Tiles_176
+  - first:
+      213: -7718528642230998854
+    second: Wall Tiles_177
+  - first:
+      213: -3914509125355271353
+    second: Wall Tiles_178
+  - first:
+      213: 211453203554644457
+    second: Wall Tiles_179
+  - first:
+      213: -1118501339847472301
+    second: Wall Tiles_180
+  - first:
+      213: 6783903413987914070
+    second: Wall Tiles_181
+  - first:
+      213: -2547665892627404185
+    second: Wall Tiles_182
+  - first:
+      213: 4700751457084984818
+    second: Wall Tiles_183
+  - first:
+      213: -5899660433205370028
+    second: Wall Tiles_184
+  - first:
+      213: 3488601784826143132
+    second: Wall Tiles_185
+  - first:
+      213: -1456740694702042292
+    second: Wall Tiles_186
+  - first:
+      213: -4976629621508163729
+    second: Wall Tiles_187
+  - first:
+      213: -3445859566655822872
+    second: Wall Tiles_188
+  - first:
+      213: 1878263081195943714
+    second: Wall Tiles_189
+  - first:
+      213: 8467148081623850337
+    second: Wall Tiles_190
+  - first:
+      213: 2719751630786946013
+    second: Wall Tiles_191
+  - first:
+      213: -8269204304787893323
+    second: Wall Tiles_192
+  - first:
+      213: 3579672024169091164
+    second: Wall Tiles_193
+  - first:
+      213: 4684923235207740245
+    second: Wall Tiles_194
+  - first:
+      213: 9207856189849034040
+    second: Wall Tiles_195
+  - first:
+      213: -5734634409670934937
+    second: Wall Tiles_196
+  - first:
+      213: -1815040817994311092
+    second: Wall Tiles_197
+  - first:
+      213: -1493698480375938643
+    second: Wall Tiles_198
+  - first:
+      213: 8352705336460017793
+    second: Wall Tiles_199
+  - first:
+      213: 5816407380637270217
+    second: Wall Tiles_200
+  - first:
+      213: -7206356448056383512
+    second: Wall Tiles_201
+  - first:
+      213: 3281027252337790250
+    second: Wall Tiles_202
+  - first:
+      213: -2787542259287716228
+    second: Wall Tiles_203
+  - first:
+      213: 5993637287076368754
+    second: Wall Tiles_204
+  - first:
+      213: -5775075533524591085
+    second: Wall Tiles_205
+  - first:
+      213: -5692976949343113183
+    second: Wall Tiles_206
+  - first:
+      213: 3414675060332959480
+    second: Wall Tiles_207
+  - first:
+      213: 8278041296600161079
+    second: Wall Tiles_208
+  - first:
+      213: -7476190221836815504
+    second: Wall Tiles_209
+  - first:
+      213: 8688899334678909003
+    second: Wall Tiles_210
+  - first:
+      213: 4169350605179683908
+    second: Wall Tiles_211
+  - first:
+      213: -5223134751442890677
+    second: Wall Tiles_212
+  - first:
+      213: -633023045483801494
+    second: Wall Tiles_213
+  - first:
+      213: 2709673627328908283
+    second: Wall Tiles_214
+  - first:
+      213: -5033571359065672296
+    second: Wall Tiles_215
+  - first:
+      213: -669278160838139229
+    second: Wall Tiles_216
+  - first:
+      213: 4323884602726799339
+    second: Wall Tiles_217
+  - first:
+      213: 3963996041482775019
+    second: Wall Tiles_218
+  - first:
+      213: 4066534507746078957
+    second: Wall Tiles_219
+  - first:
+      213: 1135323285864116329
+    second: Wall Tiles_220
+  - first:
+      213: -8283030031782872899
+    second: Wall Tiles_221
+  - first:
+      213: 8998947571814469537
+    second: Wall Tiles_222
+  - first:
+      213: 8462790425033115439
+    second: Wall Tiles_223
+  - first:
+      213: 2129306263704304384
+    second: Wall Tiles_224
+  - first:
+      213: -8767317486525481818
+    second: Wall Tiles_225
+  - first:
+      213: -9074068315931297193
+    second: Wall Tiles_226
+  - first:
+      213: -8361038998106392807
+    second: Wall Tiles_227
+  - first:
+      213: -7688873609565273645
+    second: Wall Tiles_228
+  - first:
+      213: -6551605255398487730
+    second: Wall Tiles_229
+  - first:
+      213: -5026836429450112750
+    second: Wall Tiles_230
+  - first:
+      213: 973190221305642544
+    second: Wall Tiles_231
+  - first:
+      213: -6938806927904893648
+    second: Wall Tiles_232
+  - first:
+      213: 6933336496252998003
+    second: Wall Tiles_233
+  - first:
+      213: 7712549004334861241
+    second: Wall Tiles_234
+  - first:
+      213: 874606117247090621
+    second: Wall Tiles_235
+  - first:
+      213: -6941956840294163931
+    second: Wall Tiles_236
+  - first:
+      213: 5088377465719652842
+    second: Wall Tiles_237
+  - first:
+      213: -8268597278416510049
+    second: Wall Tiles_238
+  - first:
+      213: 7058208482910181280
+    second: Wall Tiles_239
+  - first:
+      213: -5685990525548102861
+    second: Wall Tiles_240
+  - first:
+      213: -355200930033637452
+    second: Wall Tiles_241
+  - first:
+      213: 6627038162065328995
+    second: Wall Tiles_242
+  - first:
+      213: 2933523084349064155
+    second: Wall Tiles_243
+  - first:
+      213: -201073311010533317
+    second: Wall Tiles_244
+  - first:
+      213: 1073536406351156332
+    second: Wall Tiles_245
+  - first:
+      213: -8243870753492935687
+    second: Wall Tiles_246
+  - first:
+      213: -3103776943056022540
+    second: Wall Tiles_247
+  - first:
+      213: 3745460570548460497
+    second: Wall Tiles_248
+  - first:
+      213: 2529398070500709267
+    second: Wall Tiles_249
+  - first:
+      213: 8038035962208701250
+    second: Wall Tiles_250
+  - first:
+      213: 5587897664320640975
+    second: Wall Tiles_251
+  - first:
+      213: -403035568516120482
+    second: Wall Tiles_252
+  - first:
+      213: 2728985147480490548
+    second: Wall Tiles_253
+  - first:
+      213: -5975157921450893602
+    second: Wall Tiles_254
+  - first:
+      213: 1486033940056657682
+    second: Wall Tiles_255
+  - first:
+      213: 5203416932247822640
+    second: Wall Tiles_256
+  - first:
+      213: 4066552591086854257
+    second: Wall Tiles_257
+  - first:
+      213: 7385912299437615809
+    second: Wall Tiles_258
+  - first:
+      213: 5706486786260500779
+    second: Wall Tiles_259
+  - first:
+      213: -7421451611046000103
+    second: Wall Tiles_260
+  - first:
+      213: -2564736026339196365
+    second: Wall Tiles_261
+  - first:
+      213: -4761686028445435564
+    second: Wall Tiles_262
+  - first:
+      213: 2805747085650030778
+    second: Wall Tiles_263
+  - first:
+      213: 4944884052210319986
+    second: Wall Tiles_264
+  - first:
+      213: 8628917002958873556
+    second: Wall Tiles_265
+  - first:
+      213: -2930917967819574463
+    second: Wall Tiles_266
+  - first:
+      213: 6499558836031322784
+    second: Wall Tiles_267
+  - first:
+      213: -6274839005550186453
+    second: Wall Tiles_268
+  - first:
+      213: -4589862005756181374
+    second: Wall Tiles_269
+  - first:
+      213: 3623574468706233558
+    second: Wall Tiles_270
+  - first:
+      213: 8984330727577025162
+    second: Wall Tiles_271
+  - first:
+      213: -8256771410574917651
+    second: Wall Tiles_272
+  - first:
+      213: 1027551575695380413
+    second: Wall Tiles_273
+  - first:
+      213: 7804894008848538273
+    second: Wall Tiles_274
+  - first:
+      213: -8702102109173904813
+    second: Wall Tiles_275
+  - first:
+      213: 5379245290620719521
+    second: Wall Tiles_276
+  - first:
+      213: -3217278166845245901
+    second: Wall Tiles_277
+  - first:
+      213: 3366150222542381059
+    second: Wall Tiles_278
+  - first:
+      213: -517380413575457368
+    second: Wall Tiles_279
+  - first:
+      213: 2897696329068106998
+    second: Wall Tiles_280
+  - first:
+      213: -8981486556135676642
+    second: Wall Tiles_281
+  - first:
+      213: -4112908185311230441
+    second: Wall Tiles_282
+  - first:
+      213: 227982109688443769
+    second: Wall Tiles_283
+  - first:
+      213: 6108000981357908875
+    second: Wall Tiles_284
+  - first:
+      213: -2539722024490264957
+    second: Wall Tiles_285
+  - first:
+      213: -6139301470337204716
+    second: Wall Tiles_286
+  - first:
+      213: -66409083627542785
+    second: Wall Tiles_287
+  - first:
+      213: 1427822943502862410
+    second: Wall Tiles_288
+  - first:
+      213: -721793117230076206
+    second: Wall Tiles_289
+  - first:
+      213: -9105517722691066504
+    second: Wall Tiles_290
+  - first:
+      213: 737278228886472065
+    second: Wall Tiles_291
+  - first:
+      213: -5132664315886965236
+    second: Wall Tiles_292
+  - first:
+      213: 3882909066691201876
+    second: Wall Tiles_293
+  - first:
+      213: 1356664753861749610
+    second: Wall Tiles_294
+  - first:
+      213: 7834410240972629579
+    second: Wall Tiles_295
+  - first:
+      213: 3604331912992409313
+    second: Wall Tiles_296
+  - first:
+      213: 7563671720058802479
+    second: Wall Tiles_297
+  - first:
+      213: -2153820582614247101
+    second: Wall Tiles_298
+  - first:
+      213: -2785258577789472463
+    second: Wall Tiles_299
+  - first:
+      213: -4719594185044239278
+    second: Wall Tiles_300
+  - first:
+      213: -8913083295361987525
+    second: Wall Tiles_301
+  - first:
+      213: 8695762923739094595
+    second: Wall Tiles_302
+  - first:
+      213: 2557839927139987199
+    second: Wall Tiles_303
+  - first:
+      213: 2712191611785502613
+    second: Wall Tiles_304
+  - first:
+      213: 8461106402772168690
+    second: Wall Tiles_305
+  - first:
+      213: -718542808221807966
+    second: Wall Tiles_306
+  - first:
+      213: -3857053289503653985
+    second: Wall Tiles_307
+  - first:
+      213: -7263562130388064911
+    second: Wall Tiles_308
+  - first:
+      213: 8018340948602190478
+    second: Wall Tiles_309
+  - first:
+      213: -3102756818343723025
+    second: Wall Tiles_310
+  - first:
+      213: -8848306234112653491
+    second: Wall Tiles_311
+  - first:
+      213: -7361531523786377094
+    second: Wall Tiles_312
+  - first:
+      213: -2958784292619224376
+    second: Wall Tiles_313
+  - first:
+      213: -390042493750609297
+    second: Wall Tiles_314
+  - first:
+      213: -5823635573493363010
+    second: Wall Tiles_315
+  - first:
+      213: 5295376574958737857
+    second: Wall Tiles_316
+  - first:
+      213: -5463868076708753090
+    second: Wall Tiles_317
+  - first:
+      213: -3594980943650290199
+    second: Wall Tiles_318
+  - first:
+      213: -5183272377528761726
+    second: Wall Tiles_319
+  - first:
+      213: -2631615429171616471
+    second: Wall Tiles_320
+  - first:
+      213: 1346239884891276013
+    second: Wall Tiles_321
+  - first:
+      213: -1306773155977246703
+    second: Wall Tiles_322
+  - first:
+      213: -2948157294266406266
+    second: Wall Tiles_323
+  - first:
+      213: 2795706422052357796
+    second: Wall Tiles_324
+  - first:
+      213: 3740291951520092902
+    second: Wall Tiles_325
+  - first:
+      213: -383297801978748510
+    second: Wall Tiles_326
+  - first:
+      213: -2906897079835164301
+    second: Wall Tiles_327
+  - first:
+      213: 482009915854184777
+    second: Wall Tiles_328
+  - first:
+      213: -6331498321946247108
+    second: Wall Tiles_329
+  - first:
+      213: 4455123491373263353
+    second: Wall Tiles_330
+  - first:
+      213: 9028638534313382089
+    second: Wall Tiles_331
+  - first:
+      213: 7419045953397612622
+    second: Wall Tiles_332
+  - first:
+      213: -540045083815676627
+    second: Wall Tiles_333
+  - first:
+      213: 7215090838840876874
+    second: Wall Tiles_334
+  - first:
+      213: 3451950588694412829
+    second: Wall Tiles_335
+  - first:
+      213: 7223955425998184032
+    second: Wall Tiles_336
+  - first:
+      213: -2631801771703691128
+    second: Wall Tiles_337
+  - first:
+      213: -6090090742626195438
+    second: Wall Tiles_338
+  - first:
+      213: 5855119747473671003
+    second: Wall Tiles_339
+  - first:
+      213: -9072713491567727503
+    second: Wall Tiles_340
+  - first:
+      213: -1445587665529362074
+    second: Wall Tiles_341
+  - first:
+      213: 3323148929289544925
+    second: Wall Tiles_342
+  - first:
+      213: -776384648487860874
+    second: Wall Tiles_343
+  - first:
+      213: 8767570484281445450
+    second: Wall Tiles_344
+  - first:
+      213: 5428867051092117455
+    second: Wall Tiles_345
+  - first:
+      213: -2091532823301072306
+    second: Wall Tiles_346
+  - first:
+      213: -1024895524861538548
+    second: Wall Tiles_347
+  - first:
+      213: -3975356705226866579
+    second: Wall Tiles_348
+  - first:
+      213: -7137433415126778601
+    second: Wall Tiles_349
+  - first:
+      213: -5572975937867215909
+    second: Wall Tiles_350
+  - first:
+      213: -2051106222320087146
+    second: Wall Tiles_351
+  - first:
+      213: -5680383965887121518
+    second: Wall Tiles_352
+  - first:
+      213: -713845899300320773
+    second: Wall Tiles_353
+  - first:
+      213: 4660863892347018589
+    second: Wall Tiles_354
+  - first:
+      213: -8426607669413715662
+    second: Wall Tiles_355
+  - first:
+      213: 5741836729995943659
+    second: Wall Tiles_356
+  - first:
+      213: 2361291923383692620
+    second: Wall Tiles_357
+  - first:
+      213: 2433927885208282877
+    second: Wall Tiles_358
+  - first:
+      213: 445516123932733667
+    second: Wall Tiles_359
+  - first:
+      213: 7756205244862850554
+    second: Wall Tiles_360
+  - first:
+      213: -7529640736874728687
+    second: Wall Tiles_361
+  - first:
+      213: 1281141936783483240
+    second: Wall Tiles_362
+  - first:
+      213: 3775961819471463915
+    second: Wall Tiles_363
+  - first:
+      213: -6382950794875877601
+    second: Wall Tiles_364
+  - first:
+      213: -6299742914359057996
+    second: Wall Tiles_365
+  - first:
+      213: -1431545079461580627
+    second: Wall Tiles_366
+  - first:
+      213: -2064042235938855385
+    second: Wall Tiles_367
+  - first:
+      213: -9075739058907664505
+    second: Wall Tiles_368
+  - first:
+      213: 3626428428279675810
+    second: Wall Tiles_369
+  - first:
+      213: 2955698238211732612
+    second: Wall Tiles_370
+  - first:
+      213: 2425893131962067693
+    second: Wall Tiles_371
+  - first:
+      213: 7200174746192228067
+    second: Wall Tiles_372
+  - first:
+      213: -2313944858926305642
+    second: Wall Tiles_373
+  - first:
+      213: 4383243349276583391
+    second: Wall Tiles_374
+  - first:
+      213: -7657588829672765178
+    second: Wall Tiles_375
+  - first:
+      213: 4151415894388043236
+    second: Wall Tiles_376
+  - first:
+      213: 3734380961939643303
+    second: Wall Tiles_377
+  - first:
+      213: -1740110291454515118
+    second: Wall Tiles_378
+  - first:
+      213: -2498922849336684348
+    second: Wall Tiles_379
+  - first:
+      213: -6149461501391049625
+    second: Wall Tiles_380
+  - first:
+      213: -3613998109277186073
+    second: Wall Tiles_381
+  - first:
+      213: -4640222322317822481
+    second: Wall Tiles_382
+  - first:
+      213: 9205860978664651214
+    second: Wall Tiles_383
+  - first:
+      213: 8684991817733398015
+    second: Wall Tiles_384
+  - first:
+      213: 8840046757402741819
+    second: Wall Tiles_385
+  - first:
+      213: 2449756532217742347
+    second: Wall Tiles_386
+  - first:
+      213: 6998608924911041604
+    second: Wall Tiles_387
+  - first:
+      213: 6377407562051709587
+    second: Wall Tiles_388
+  - first:
+      213: -2774756007297312464
+    second: Wall Tiles_389
+  - first:
+      213: -2092565721641953886
+    second: Wall Tiles_390
+  - first:
+      213: -7146862389757641347
+    second: Wall Tiles_391
+  - first:
+      213: 1101509267831058162
+    second: Wall Tiles_392
+  - first:
+      213: 4037716825924818997
+    second: Wall Tiles_393
+  - first:
+      213: 3693625267423731119
+    second: Wall Tiles_394
+  - first:
+      213: -5074590075432685322
+    second: Wall Tiles_395
+  - first:
+      213: -2279924181519818841
+    second: Wall Tiles_396
+  - first:
+      213: -4018494317480600421
+    second: Wall Tiles_397
+  - first:
+      213: 6153765823082534365
+    second: Wall Tiles_398
+  - first:
+      213: -881404027785912228
+    second: Wall Tiles_399
+  - first:
+      213: 1819891758608893444
+    second: Wall Tiles_400
+  - first:
+      213: -414082989066682123
+    second: Wall Tiles_401
+  - first:
+      213: 988488945892666336
+    second: Wall Tiles_402
+  - first:
+      213: 7599042644582109154
+    second: Wall Tiles_403
+  - first:
+      213: 1225540759642606207
+    second: Wall Tiles_404
+  - first:
+      213: 3348311943057797879
+    second: Wall Tiles_405
+  - first:
+      213: 344029716320279598
+    second: Wall Tiles_406
+  - first:
+      213: 525270474470533833
+    second: Wall Tiles_407
+  - first:
+      213: -6928976885640009390
+    second: Wall Tiles_408
+  - first:
+      213: -173937198522783342
+    second: Wall Tiles_409
+  - first:
+      213: -6259947692564430191
+    second: Wall Tiles_410
+  - first:
+      213: 1006627255095769144
+    second: Wall Tiles_411
+  - first:
+      213: -607708720063694308
+    second: Wall Tiles_412
+  - first:
+      213: -5586114029789203847
+    second: Wall Tiles_413
+  - first:
+      213: 992824681319804390
+    second: Wall Tiles_414
+  - first:
+      213: 7336165827028155777
+    second: Wall Tiles_415
+  - first:
+      213: -6314367160764476970
+    second: Wall Tiles_416
+  - first:
+      213: -5371762528733997924
+    second: Wall Tiles_417
+  - first:
+      213: -746843258258515641
+    second: Wall Tiles_418
+  - first:
+      213: -892767003846337329
+    second: Wall Tiles_419
+  - first:
+      213: -9092007958493974796
+    second: Wall Tiles_420
+  - first:
+      213: 7521918646487509275
+    second: Wall Tiles_421
+  - first:
+      213: -5024805915342871235
+    second: Wall Tiles_422
+  - first:
+      213: 7988476361527273518
+    second: Wall Tiles_423
+  - first:
+      213: 2227635332967968413
+    second: Wall Tiles_424
+  - first:
+      213: -8910015321381225574
+    second: Wall Tiles_425
+  - first:
+      213: 1201737725051985614
+    second: Wall Tiles_426
+  - first:
+      213: -3203379440019862421
+    second: Wall Tiles_427
+  - first:
+      213: -4370781731975246324
+    second: Wall Tiles_428
+  - first:
+      213: 9215241497897616048
+    second: Wall Tiles_429
+  - first:
+      213: 4077087061684276231
+    second: Wall Tiles_430
+  - first:
+      213: -5136036699465620314
+    second: Wall Tiles_431
+  - first:
+      213: 2332448921839780159
+    second: Wall Tiles_432
+  - first:
+      213: 5344524113357538138
+    second: Wall Tiles_433
+  - first:
+      213: 4824716814332784430
+    second: Wall Tiles_434
+  - first:
+      213: -756238509726911698
+    second: Wall Tiles_435
+  - first:
+      213: 4979563820799496770
+    second: Wall Tiles_436
+  - first:
+      213: 6753211276420598840
+    second: Wall Tiles_437
+  - first:
+      213: 6433844034022330370
+    second: Wall Tiles_438
+  - first:
+      213: -1383482844483701377
+    second: Wall Tiles_439
+  - first:
+      213: 1727637667796671591
+    second: Wall Tiles_440
+  - first:
+      213: 6786340901103954668
+    second: Wall Tiles_441
+  - first:
+      213: -6252209250401753150
+    second: Wall Tiles_442
+  - first:
+      213: 5186497601835156516
+    second: Wall Tiles_443
+  - first:
+      213: 2049631813249803809
+    second: Wall Tiles_444
+  - first:
+      213: 4944240465000248124
+    second: Wall Tiles_445
+  - first:
+      213: -184345220818008144
+    second: Wall Tiles_446
+  - first:
+      213: -1095255719229668936
+    second: Wall Tiles_447
+  - first:
+      213: -5538269530394989480
+    second: Wall Tiles_448
+  - first:
+      213: 3548046355195535118
+    second: Wall Tiles_449
+  - first:
+      213: -3992335614502120060
+    second: Wall Tiles_450
+  - first:
+      213: -4469262703196354572
+    second: Wall Tiles_451
+  - first:
+      213: -7641476791003592592
+    second: Wall Tiles_452
+  - first:
+      213: 6356550075331347112
+    second: Wall Tiles_453
+  - first:
+      213: 1559036284767389511
+    second: Wall Tiles_454
+  - first:
+      213: -7573745390075790179
+    second: Wall Tiles_455
+  - first:
+      213: 7972201825325777292
+    second: Wall Tiles_456
+  - first:
+      213: -1737086892143300188
+    second: Wall Tiles_457
+  - first:
+      213: -4285473566599759986
+    second: Wall Tiles_458
+  - first:
+      213: 9206003520630501034
+    second: Wall Tiles_459
+  - first:
+      213: -6616558891911150569
+    second: Wall Tiles_460
+  - first:
+      213: -2304748244878556249
+    second: Wall Tiles_461
+  - first:
+      213: -3729267165991348310
+    second: Wall Tiles_462
+  - first:
+      213: -5080792716789843969
+    second: Wall Tiles_463
+  - first:
+      213: -6518146254716024548
+    second: Wall Tiles_464
+  - first:
+      213: -8116527188905824674
+    second: Wall Tiles_465
+  - first:
+      213: 5412888276661854775
+    second: Wall Tiles_466
+  - first:
+      213: 4267943763893344993
+    second: Wall Tiles_467
+  - first:
+      213: -759041986501070192
+    second: Wall Tiles_468
+  - first:
+      213: -8149127884094809735
+    second: Wall Tiles_469
+  - first:
+      213: 3159320892017532053
+    second: Wall Tiles_470
+  - first:
+      213: 4069767836236460033
+    second: Wall Tiles_471
+  - first:
+      213: 7586463058716852139
+    second: Wall Tiles_472
+  - first:
+      213: -1954332346469586190
+    second: Wall Tiles_473
+  - first:
+      213: -7010689058479945505
+    second: Wall Tiles_474
+  - first:
+      213: -8410778102661790577
+    second: Wall Tiles_475
+  - first:
+      213: 3194543701881994642
+    second: Wall Tiles_476
+  - first:
+      213: 1992917522158313835
+    second: Wall Tiles_477
+  - first:
+      213: 6630128049817242954
+    second: Wall Tiles_478
+  - first:
+      213: -3957883569851553319
+    second: Wall Tiles_479
+  - first:
+      213: -2914266912696906882
+    second: Wall Tiles_480
+  - first:
+      213: 4199965755827256754
+    second: Wall Tiles_481
+  - first:
+      213: 3893006214406987889
+    second: Wall Tiles_482
+  - first:
+      213: -626840465115405346
+    second: Wall Tiles_483
+  - first:
+      213: 5909786172667186152
+    second: Wall Tiles_484
+  - first:
+      213: -4107906015323724695
+    second: Wall Tiles_485
+  - first:
+      213: 5618238936836609906
+    second: Wall Tiles_486
+  - first:
+      213: 2453171435142103729
+    second: Wall Tiles_487
+  - first:
+      213: -5614298601399569270
+    second: Wall Tiles_488
+  - first:
+      213: -6724892590248740485
+    second: Wall Tiles_489
+  - first:
+      213: 4437018150788691227
+    second: Wall Tiles_490
+  - first:
+      213: -1505160007160129218
+    second: Wall Tiles_491
+  - first:
+      213: -5303076255188959892
+    second: Wall Tiles_492
+  - first:
+      213: -2359643027014888184
+    second: Wall Tiles_493
+  - first:
+      213: 7648804230662625197
+    second: Wall Tiles_494
+  - first:
+      213: 4394845086641876278
+    second: Wall Tiles_495
+  - first:
+      213: 8369499207913894655
+    second: Wall Tiles_496
+  - first:
+      213: -4417743033996214606
+    second: Wall Tiles_497
+  - first:
+      213: 5722217080848631139
+    second: Wall Tiles_498
+  - first:
+      213: -5302179569553045596
+    second: Wall Tiles_499
+  - first:
+      213: 4408618011815493851
+    second: Wall Tiles_500
+  - first:
+      213: 3966952304599625962
+    second: Wall Tiles_501
+  - first:
+      213: -1757459762348117890
+    second: Wall Tiles_502
+  - first:
+      213: 1380073701489456057
+    second: Wall Tiles_503
+  - first:
+      213: -7356123001754735372
+    second: Wall Tiles_504
+  - first:
+      213: -8105713220896783637
+    second: Wall Tiles_505
+  - first:
+      213: 488500237928899329
+    second: Wall Tiles_506
+  - first:
+      213: -2120422925518427915
+    second: Wall Tiles_507
+  - first:
+      213: -1007669994034820534
+    second: Wall Tiles_508
+  - first:
+      213: -5778667607104159364
+    second: Wall Tiles_509
+  - first:
+      213: -3968456767152195705
+    second: Wall Tiles_510
+  - first:
+      213: 2744355373648008352
+    second: Wall Tiles_511
+  - first:
+      213: -811517505840362087
+    second: Wall Tiles_512
+  - first:
+      213: -1986230007761428159
+    second: Wall Tiles_513
+  - first:
+      213: 2413028618304376086
+    second: Wall Tiles_514
+  - first:
+      213: -1278258477441456538
+    second: Wall Tiles_515
+  - first:
+      213: -9036008468362479995
+    second: Wall Tiles_516
+  - first:
+      213: 593611942829340253
+    second: Wall Tiles_517
+  - first:
+      213: 5899017740397868514
+    second: Wall Tiles_518
+  - first:
+      213: 6842546159625496952
+    second: Wall Tiles_519
+  - first:
+      213: -8864999133306682230
+    second: Wall Tiles_520
+  - first:
+      213: -4210423757644225313
+    second: Wall Tiles_521
+  - first:
+      213: 3352542063269970838
+    second: Wall Tiles_522
+  - first:
+      213: 385886305523541474
+    second: Wall Tiles_523
+  - first:
+      213: -4748848552312457435
+    second: Wall Tiles_524
+  - first:
+      213: -1792682228793527206
+    second: Wall Tiles_525
+  - first:
+      213: -4651546060541539415
+    second: Wall Tiles_526
+  - first:
+      213: -8929750466414846481
+    second: Wall Tiles_527
+  - first:
+      213: 1110104757611522915
+    second: Wall Tiles_528
+  - first:
+      213: 5150904182020289622
+    second: Wall Tiles_529
+  - first:
+      213: -4035229608371658866
+    second: Wall Tiles_530
+  - first:
+      213: 3120075188059339339
+    second: Wall Tiles_531
+  - first:
+      213: -933303169686590151
+    second: Wall Tiles_532
+  - first:
+      213: -1071283863215211901
+    second: Wall Tiles_533
+  - first:
+      213: -6051278764769859226
+    second: Wall Tiles_534
+  - first:
+      213: 3674270435551353432
+    second: Wall Tiles_535
+  - first:
+      213: -5457855132915025270
+    second: Wall Tiles_536
+  - first:
+      213: -486757338685562187
+    second: Wall Tiles_537
+  - first:
+      213: -2436545089756743389
+    second: Wall Tiles_538
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39dde99c2366bc50800000000000000
+      internalID: 6680636140462922044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0924c95ff7023c910800000000000000
+      internalID: 1856363205360370320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29966940bd4f28930800000000000000
+      internalID: 4144143828646259090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575cc4968f2b15610800000000000000
+      internalID: 1608263321936250229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3b730f60e56ff0800000000000000
+      internalID: -43381853985751229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc34227a6cfd58760800000000000000
+      internalID: 7459614402109653967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96650ec8aa81da640800000000000000
+      internalID: 5092753874412918377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec91433ecf69de0800000000000000
+      internalID: -1326594987452150183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dcca32236181310800000000000000
+      internalID: 1375874090764389772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdda0fe8e5912880800000000000000
+      internalID: -8637457782644482635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2255c028504b40800000000000000
+      internalID: 5422430849126772214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de364add46bc3560800000000000000
+      internalID: 7294905941924134608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e89d90f0a00ac30800000000000000
+      internalID: 4368502698255420956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d281cd0369e370800000000000000
+      internalID: 8352315894667597819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40a9d61c189d150800000000000000
+      internalID: 5897887854785856720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a38c925f5f9ae0800000000000000
+      internalID: -1540407739119589017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c4c26cffc2de600800000000000000
+      internalID: 499104610761067595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd1e862bebd1c260800000000000000
+      internalID: 7116210689232739799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99592e175e8413d0800000000000000
+      internalID: -3236805727353218662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fee8c8a45ded4e0800000000000000
+      internalID: -1954890672069742735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db06db51d44ca70800000000000000
+      internalID: 8846280323829382460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271b58ecbb8682a0800000000000000
+      internalID: -6735542549217601754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d83cc5f561a7a80800000000000000
+      internalID: -8468431550482772580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f487ef761d1b60800000000000000
+      internalID: 7718350074983805162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a775485fef9b9530800000000000000
+      internalID: 3862856955727280041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19a60d333118ba0800000000000000
+      internalID: -6088564107967295028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4154210f0116dd0800000000000000
+      internalID: -2494694095301831501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708879fa56500230800000000000000
+      internalID: 3602974650628866174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc0edb34c8450a0800000000000000
+      internalID: -6893730907021062257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27052a587c411b0800000000000000
+      internalID: -5686701052694334811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84170a941fc2e7470800000000000000
+      internalID: 8394196170299175240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5cee6ca17427910800000000000000
+      internalID: 1833606178625471928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d4cd5981edf960800000000000000
+      internalID: 7637508523190178699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb71067529b67c0800000000000000
+      internalID: -4077004133681873966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493da0d6d4cdd1d0800000000000000
+      internalID: -3324284523026499260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145d9bec21fa5250800000000000000
+      internalID: 5934320634247861276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e457a3d4c556640800000000000000
+      internalID: 5072562042065735216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978540f74b0f53a40800000000000000
+      internalID: 5347444790588102777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b2e58bda90a2020800000000000000
+      internalID: 2317675599962712915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e20444b325c4950800000000000000
+      internalID: 6434608382107201058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d1e5ec0e07dc00800000000000000
+      internalID: 925223697007105698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f41643ada92e390800000000000000
+      internalID: -7790494143425196238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66c7db19253ed60800000000000000
+      internalID: 7918263355750246065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c32a19c0e224a0800000000000000
+      internalID: -6619481347949608792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e683ed792221a00800000000000000
+      internalID: 725680525623717517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3a8eeca74df990800000000000000
+      internalID: -7350640208736797519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40882a67af36b1a70800000000000000
+      internalID: 8798736224381732868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705ac80d4c1722f0800000000000000
+      internalID: -997797675253739407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aec5698713f8a60800000000000000
+      internalID: 7678410283678493264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e68f4cb7315d50800000000000000
+      internalID: 6724217000568479850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0747ec4dd14be5e0800000000000000
+      internalID: -1879336000763246833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
