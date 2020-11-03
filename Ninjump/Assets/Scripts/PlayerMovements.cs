@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovements : MonoBehaviour
 {
 
-    [SerializeField] private float jumpForce = 1f;
+    [SerializeField] private float jumpForce;
     [SerializeField] private Rigidbody2D rb;
     // [SerializeField] private Camera cam;
 
@@ -41,13 +38,8 @@ public class PlayerMovements : MonoBehaviour
 
     void Jump()
     {
-        //rb.AddForce(transform.forward * jumpForce, ForceMode2D.Impulse);
         rb.velocity = new Vector2(lookDir.x * jumpForce, lookDir.y * jumpForce);
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        rb.velocity = Vector2.zero;
-        rb.angularVelocity = 0f;
-    }
+    
 }
