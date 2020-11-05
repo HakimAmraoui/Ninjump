@@ -7,7 +7,8 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1));
+        // We load the first level when we hit the play button
+        SceneManager.LoadScene("Scene01");
     }
 
     public void QuitGame()
