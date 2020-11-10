@@ -23,13 +23,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DontDestroyOnLoadScene.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DontDestroyOnLoadScene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LevelManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/DontDestroyOnLoadScene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowKunai.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,10 +49,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ThrowKunai.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovements.cs" />
         <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/DontDestroyOnLoadScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" />
         <option value="$PROJECT_DIR$/Assets/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HowToPlay/Text.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HowToPlay/HTPText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HowToPlay/TextTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
       </list>
     </option>
   </component>
@@ -113,6 +114,7 @@
       <workItem from="1604419364232" duration="5257000" />
       <workItem from="1604491882814" duration="982000" />
       <workItem from="1604504743110" duration="4938000" />
+      <workItem from="1605012911294" duration="5122000" />
     </task>
     <servers />
   </component>
