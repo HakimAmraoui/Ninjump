@@ -12,6 +12,7 @@ public class MainMenu : MonoBehaviour
     [SerializeField] private Image guide;
     [SerializeField] private Button nextButton, endButton;
     [SerializeField] private Text[] texts;
+    [SerializeField] private GameObject settings;
 
 
     public void PlayGame()
@@ -22,6 +23,12 @@ public class MainMenu : MonoBehaviour
 
     public void Option()
     {
+        settings.SetActive(true);
+    }
+
+    public void BackButton()
+    {
+        settings.SetActive(false);
     }
 
     public void QuitGame()

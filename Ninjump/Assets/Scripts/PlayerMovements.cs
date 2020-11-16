@@ -38,6 +38,7 @@ public class PlayerMovements : MonoBehaviour
 
     void Jump()
     {
+        // transform.position = Vector2.MoveTowards(transform.position, lookDir)
         rb.velocity = new Vector2(lookDir.x * jumpForce, lookDir.y * jumpForce);
     }
 
