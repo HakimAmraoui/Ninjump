@@ -9,12 +9,27 @@ public class KunaiThrow : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private float throwForce = 20f;
 
+    public bool enableThrow;
+    
+    public static KunaiThrow instance;
+
+    private void Awake()
+    {
+        
+        if (instance != null)
+        {
+            Debug.LogWarning("There is already an instance of KunaiThrow in the scene.");
+            return;
+        }
+        instance = this;
+    }
+
     
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire2") && KunaiRotation.instance.isPickedUp)
+        if (Input.GetButtonDown("Fire2") && KunaiRotation.instance.isPickedUp && enableThrow)
         {
             Shoot();
             Debug.Log("shoot");

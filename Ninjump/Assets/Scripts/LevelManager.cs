@@ -1,28 +1,36 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
-    [SerializeField] private GameObject[] lanterns;
+    [SerializeField] public GameObject[] lanterns;
     public int counterLanternsOn;
+
+    [SerializeField] private Canvas canvas;
+    [SerializeField] private string sceneName;
     
     // Start is called before the first frame update
     void Start()
     {
         // We fill the array with all the lanterns currently in the level
         lanterns = GameObject.FindGameObjectsWithTag("Lantern");
+        
+        // Enable player's movements, throw and rotation
+        PlayerMovements.instance.enableMovements = true;
+        KunaiRotation.instance.enableRotation = true;
+        KunaiThrow.instance.enableThrow = true;
     }
 
-    // Update is called once per frame
-    void Update()
+    // Load the next level
+    public void LoadStageComplitedUI()
     {
-        // If all the lanterns are on
-        if (counterLanternsOn == lanterns.Length)
-        {
-            Debug.Log("Level completed");
-            // Load net level
-            
-        }
+        canvas.gameObject.SetActive(true);
+    }
+
+    public void LoadSpecificStage()
+    {
+        SceneManager.LoadScene(sceneName);
     }
 }

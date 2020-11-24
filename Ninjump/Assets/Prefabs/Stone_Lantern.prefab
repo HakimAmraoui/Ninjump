@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6079504474600218668}
   m_Layer: 0
   m_Name: Stone_Lantern
-  m_TagString: Untagged
+  m_TagString: Lantern
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -226,3 +226,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
+  levelManager: {fileID: 0}
+  fireMatch: {fileID: 8300000, guid: fabfc23e3b4b49548a36ed4b89f1618f, type: 3}

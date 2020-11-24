@@ -2,14 +2,28 @@
 
 public class PlayerMovements : MonoBehaviour
 {
-
     [SerializeField] private float jumpForce;
     [SerializeField] private Rigidbody2D rb;
-    // [SerializeField] private Camera cam;
+
+    public bool enableMovements;
 
     // private Vector2 movement;
     private Vector2 mousePos;
     private Vector2 lookDir;
+    
+    public static PlayerMovements instance;
+
+    private void Awake()
+    {
+        
+        if (instance != null)
+        {
+            Debug.LogWarning("There is already an instance of PlayerMovements in the scene.");
+            return;
+        }
+        instance = this;
+    }
+    
 
     // Start is called before the first frame update
 
@@ -24,7 +38,7 @@ public class PlayerMovements : MonoBehaviour
         mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
         // When the player left click
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") && enableMovements)
         {
             Jump();
         }
@@ -41,6 +55,4 @@ public class PlayerMovements : MonoBehaviour
         // transform.position = Vector2.MoveTowards(transform.position, lookDir)
         rb.velocity = new Vector2(lookDir.x * jumpForce, lookDir.y * jumpForce);
     }
-
-    
 }

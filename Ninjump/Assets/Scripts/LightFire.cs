@@ -7,6 +7,7 @@ public class LightFire : MonoBehaviour
 {
     [SerializeField] private Animator animator;
     [SerializeField] private LevelManager levelManager;
+    [SerializeField] private AudioClip fireMatch;
 
     private bool isOn;
 
@@ -18,10 +19,7 @@ public class LightFire : MonoBehaviour
         levelManager = GameObject.FindGameObjectWithTag("GameManager").transform.GetComponent<LevelManager>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
+    
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -32,6 +30,22 @@ public class LightFire : MonoBehaviour
                 animator.SetTrigger("Fire_On");
                 levelManager.counterLanternsOn++;
                 isOn = true;
+                AudioManager.instance.PlayClipAt(fireMatch,transform.position);
+                
+                // If all the lanterns are on
+                if (levelManager.counterLanternsOn == levelManager.lanterns.Length)
+                {
+                    Debug.Log("Level completed");
+                    // Load net level
+
+                    // Block player's movements, throw and rotation
+                    PlayerMovements.instance.enableMovements = false;
+                    KunaiRotation.instance.enableRotation = false;
+                    KunaiThrow.instance.enableThrow = false;
+                    
+                    levelManager.LoadStageComplitedUI();
+
+                }
             }
         }
     }

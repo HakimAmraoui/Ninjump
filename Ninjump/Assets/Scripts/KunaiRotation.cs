@@ -8,7 +8,9 @@ public class KunaiRotation : MonoBehaviour
 
     public  bool isPickedUp = true;
     [SerializeField] private GameObject attachmentPoint;
+    public bool enableRotation;
 
+    private Vector2 dir;
     private void Awake()
     {
         // On evite de creer plusieur instance d'Inventory
@@ -25,8 +27,12 @@ public class KunaiRotation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Mouse Position in world game
-        Vector2 dir = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
+        if (enableRotation)
+        {
+            // Mouse Position in world game
+            dir = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
+        }
+        
 
         if (isPickedUp)
         {
