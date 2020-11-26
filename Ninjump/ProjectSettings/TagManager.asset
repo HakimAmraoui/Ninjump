@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Lantern
   - GameManager
+  - AudioManager
+  - Canvas
   layers:
   - Default
   - TransparentFX

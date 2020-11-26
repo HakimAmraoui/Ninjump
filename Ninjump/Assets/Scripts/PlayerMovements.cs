@@ -3,7 +3,7 @@
 public class PlayerMovements : MonoBehaviour
 {
     [SerializeField] private float jumpForce;
-    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] public Rigidbody2D rb;
 
     public bool enableMovements;
 

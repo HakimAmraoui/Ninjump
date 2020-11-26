@@ -21,18 +21,17 @@
   <component name="ChangeListManager">
     <list default="true" id="1b360214-e656-4dd8-b595-c7fe34100633" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/MainMixer.mixer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Fonts/TAKOYAKI SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/TAKOYAKI SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_Lantern.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_Lantern.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Traps/Fire_Trap.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Traps/Fire_Trap.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Imports/Traps/Spike Trap.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Imports/Traps/Spike Trap.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KunaiRotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KunaiRotation.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene02.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovements.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovements.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +64,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PickUpKunai.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/KunaiRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovements.cs" />
+        <option value="$PROJECT_DIR$/Assets/Trap.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
       </list>
     </option>
@@ -92,6 +92,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Build\Ninjump.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Documents\GitHub\Ninjump\Ninjump\Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -131,7 +139,8 @@
       <workItem from="1605513837618" duration="3747000" />
       <workItem from="1605528648250" duration="6369000" />
       <workItem from="1605611299049" duration="2779000" />
-      <workItem from="1606216490893" duration="5701000" />
+      <workItem from="1606216490893" duration="6299000" />
+      <workItem from="1606404702302" duration="4653000" />
     </task>
     <servers />
   </component>

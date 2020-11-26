@@ -1470,6 +1470,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lanterns: []
   counterLanternsOn: 0
+  canvas: {fileID: 627733776}
+  sceneName: 
 --- !u!1 &627733773
 GameObject:
   m_ObjectHideFlags: 0
@@ -1583,10 +1585,14 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5976251164682852248, guid: 39e154a4c4b77aa4ca773c90204d9c81, type: 3}
       propertyPath: objects.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5976251164682852248, guid: 39e154a4c4b77aa4ca773c90204d9c81, type: 3}
       propertyPath: objects.Array.data[1]
+      value: 
+      objectReference: {fileID: 182970176403978910}
+    - target: {fileID: 5976251164682852248, guid: 39e154a4c4b77aa4ca773c90204d9c81, type: 3}
+      propertyPath: objects.Array.data[0]
       value: 
       objectReference: {fileID: 182970176403978910}
     - target: {fileID: 5976251164682852250, guid: 39e154a4c4b77aa4ca773c90204d9c81, type: 3}
@@ -3081,7 +3087,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 1000
+    maxNumParticles: 1498
     size3D: 0
     rotation3D: 0
     gravityModifier:
@@ -3346,7 +3352,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 10
+      scalar: 25
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -3618,8 +3624,8 @@ ParticleSystem:
     x:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0
-      minScalar: 0
+      scalar: 1.2217305
+      minScalar: 0.34906584
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -3671,8 +3677,8 @@ ParticleSystem:
     y:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0
-      minScalar: 0
+      scalar: 1.2217305
+      minScalar: 0.34906584
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -3725,7 +3731,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 3
       scalar: 1.2217305
-      minScalar: 0.17453292
+      minScalar: 0.34906584
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -3774,7 +3780,7 @@ ParticleSystem:
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
-    separateAxes: 0
+    separateAxes: 1
   ColorModule:
     enabled: 0
     gradient:
