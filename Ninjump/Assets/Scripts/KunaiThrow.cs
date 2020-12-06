@@ -8,6 +8,7 @@ public class KunaiThrow : MonoBehaviour
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private float throwForce = 20f;
+    
 
     public bool enableThrow;
     

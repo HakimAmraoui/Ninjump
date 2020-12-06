@@ -17,6 +17,7 @@
           <e p="PickUpKunai.cs" t="Include" />
           <e p="PlayerMovements.cs" t="Include" />
           <e p="SettingsMenu.cs" t="Include" />
+          <e p="Trap.cs" t="Include" />
         </e>
         <e p="SpeedTutor_Full_Menu_System" t="Include">
           <e p="GUI Elements" t="Include">
@@ -61,7 +62,6 @@
             <e p="EmojiOne Attribution.txt" t="Include" />
           </e>
         </e>
-        <e p="Trap.cs" t="Include" />
       </e>
       <e p="Ninjump.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
