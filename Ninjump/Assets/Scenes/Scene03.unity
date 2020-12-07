@@ -326,6 +326,7 @@ MonoBehaviour:
   rb: {fileID: 198694461}
   throwForce: 20
   enableThrow: 0
+  isThrow: 0
 --- !u!212 &198694460
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -753,9 +754,17 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1696800113803825832, guid: 29fec4fd462f6e742b470add5dda9a69, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2077257762}
+    - target: {fileID: 1696800113803825832, guid: 29fec4fd462f6e742b470add5dda9a69, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadSpecificStage
+      objectReference: {fileID: 0}
     - target: {fileID: 1696800113803825834, guid: 29fec4fd462f6e742b470add5dda9a69, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2774150946875152609, guid: 29fec4fd462f6e742b470add5dda9a69, type: 3}
       propertyPath: m_IsActive
@@ -8938,7 +8947,7 @@ MonoBehaviour:
   counterLanters: 0
   canvas: {fileID: 271539508}
   pauseUI: {fileID: 1569516517762500132}
-  sceneName: 
+  sceneName: Scene04
 --- !u!114 &2077257763
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -39,6 +39,7 @@ public class LightFire : MonoBehaviour
                     // Load net level
 
                     // Block player's movements, throw and rotation
+                    PlayerMovements.instance.rb.velocity = new Vector2(0, 0);
                     PlayerMovements.instance.enableMovements = false;
                     KunaiRotation.instance.enableRotation = false;
                     KunaiThrow.instance.enableThrow = false;

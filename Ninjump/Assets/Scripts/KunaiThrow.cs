@@ -10,7 +10,7 @@ public class KunaiThrow : MonoBehaviour
     [SerializeField] private float throwForce = 20f;
     
 
-    public bool enableThrow;
+    public bool enableThrow, isThrow;
     
     public static KunaiThrow instance;
 
@@ -42,5 +42,6 @@ public class KunaiThrow : MonoBehaviour
         transform.parent = null;
         KunaiRotation.instance.isPickedUp = false;
         rb.AddForce(transform.up * throwForce, ForceMode2D.Impulse);
+        isThrow = true;
     }
 }

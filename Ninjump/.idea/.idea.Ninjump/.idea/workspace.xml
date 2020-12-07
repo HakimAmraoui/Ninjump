@@ -22,23 +22,17 @@
     <list default="true" id="1b360214-e656-4dd8-b595-c7fe34100633" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ninjump/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Fonts/TAKOYAKI SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/TAKOYAKI SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/AudioManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/AudioManager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/GameManager.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/GameManager.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_Lantern.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_Lantern.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Spider/Spider.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Spider/Spider.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Spider/Spider_Walk.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Spider/Spider_Walk.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene0.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene0.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene02.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene02.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene03.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene03.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene03.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene03.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Trap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Trap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Timeline/PopUp_ContiniuButton_Timeline.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Timeline/PopUp_ContiniuButton_Timeline.playable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene04.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene04.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PickUpKunai.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PickUpKunai.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyPatrol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PickUpKunai.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -68,18 +63,19 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ThrowKunai.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/KunaiManager.cs" />
         <option value="$PROJECT_DIR$/Assets/KunaiThrow.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PickUpKunai.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/KunaiRotation.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovements.cs" />
         <option value="$PROJECT_DIR$/Assets/Trap.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SettingsMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DontDestroyOnLoadScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Trap.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KunaiThrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PickUpKunai.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightFire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrol.cs" />
       </list>
     </option>
   </component>
@@ -152,7 +148,7 @@
       <workItem from="1606216490893" duration="6299000" />
       <workItem from="1606404702302" duration="4653000" />
       <workItem from="1607191455053" duration="2326000" />
-      <workItem from="1607340058810" duration="12751000" />
+      <workItem from="1607340058810" duration="21950000" />
     </task>
     <servers />
   </component>

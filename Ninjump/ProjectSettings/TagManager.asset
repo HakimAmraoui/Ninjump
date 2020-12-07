@@ -8,6 +8,8 @@ TagManager:
   - GameManager
   - AudioManager
   - Canvas
+  - Enemies
+  - Kunai
   layers:
   - Default
   - TransparentFX

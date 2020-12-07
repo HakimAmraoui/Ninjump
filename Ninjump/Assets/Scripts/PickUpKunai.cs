@@ -11,6 +11,7 @@ public class PickUpKunai : MonoBehaviour
         {
             Debug.Log("Picked up");
             KunaiRotation.instance.isPickedUp = true;
+            KunaiThrow.instance.isThrow = false;
         }
     }
 }

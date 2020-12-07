@@ -1891,7 +1891,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &702714889
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1944,7 +1944,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Unfortunatly, there is nothing to aim for now
+  m_Text: If you want to throw your weapon again, you have to pick it up.
 --- !u!222 &702714891
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8371,7 +8371,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1522602330
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8452,7 +8452,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1565261500
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8505,7 +8505,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Your goal in this game is to take control of each levels '
+  m_Text: Your goal in this game is to take control of each levels.
 --- !u!222 &1565261502
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8833,7 +8833,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1661318350
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8886,7 +8886,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'You will have to light all the lanterns '
+  m_Text: You will have to light all the lanterns.
 --- !u!222 &1661318352
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9142,7 +9142,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1794810592
 Transform:
   m_ObjectHideFlags: 0
