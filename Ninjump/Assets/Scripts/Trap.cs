@@ -21,7 +21,9 @@ public class Trap : MonoBehaviour
             KunaiThrow.instance.enableThrow = false;
             
             // Active Game Over UI
-            GameOverUI.SetActive(true);
+            GameOverUI.gameObject.SetActive(true);
+
+            Timer.instance.timerActive = false;
 
         }
     }

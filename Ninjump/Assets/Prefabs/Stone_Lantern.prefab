@@ -225,6 +225,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e6e3976dbf1f3d429e955d36ac891b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 0}
+  animator: {fileID: 6079504474797892640}
   levelManager: {fileID: 0}
   fireMatch: {fileID: 8300000, guid: fabfc23e3b4b49548a36ed4b89f1618f, type: 3}

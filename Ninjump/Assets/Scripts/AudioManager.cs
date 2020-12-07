@@ -11,6 +11,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioClip[] playlist;
     [SerializeField] private AudioSource audioSource;
     [SerializeField] private AudioMixerGroup soundEffectMixer;
+    [SerializeField] private AudioMixer audioMixer;
 
     private int musicIndex = 0;
     
@@ -35,6 +36,7 @@ public class AudioManager : MonoBehaviour
     {
         audioSource.clip = playlist[Random.Range(0, 3)];
         audioSource.Play();
+        audioMixer.SetFloat("Volume", -40);
     }
 
     // Update is called once per frame
